@@ -1,10 +1,11 @@
 # Project SOAP to REST Migration Tool
 
 ## Problem Statement
-
-In the context of a project migration from SOAP to REST protocols, the task is to adapt SOAP protocols found within project files to REST.
+In the context of a project migration in the field of software development, the development of a tool capable of identifying the SOAP protocols present in the code and offering suggestions to adapt its migration to REST is required.
 
 ## Solution Overview
+
+This tool uses artificial intelligence to identify and adapt the SOAP protocols found in the project files, thus enabling a more efficient and accurate migration towards the REST paradigm.
 
 This problem is addressed through a JavaScript script that analyzes project files for SOAP protocols and provides suggestions for transforming them into REST requests. Below is a summary of the process:
 
